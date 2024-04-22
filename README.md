@@ -7,10 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## How to Run
-1. Run composer install
-2. Run php artisan migrate --seed
-3. Run php artisan storage:link
+
 
 ## About Laravel
 
