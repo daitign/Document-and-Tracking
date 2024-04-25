@@ -7,8 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-LIVE LINK
-https://daitign.com
 
 ## About Laravel
 
@@ -25,7 +23,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 
-## LIVE LINK
+LIVE LINK
 https://daitign.com
 
 
